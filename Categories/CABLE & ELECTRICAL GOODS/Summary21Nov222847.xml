@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Johnson &amp; Philips (Pak) Ltd.</Script>
+    <Price>58.04</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pak Elektron Ltd.</Script>
+    <Price>15.75</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Cables Ltd.</Script>
+    <Price>125.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Siemens (Pak) Eng. Co. Ltd.</Script>
+    <Price>880</Price>
+  </Scripts>
+  <Scripts>
+    <Script>WAVES Corporation Limited</Script>
+    <Price>10.36</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Waves Home Appliances Ltd.</Script>
+    <Price>9.88</Price>
+  </Scripts>
+</ArrayOfScripts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>B.R.R. Guardian Modaraba.</Script>
+    <Price>11.30</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Elite Capital Mod.</Script>
+    <Price>3.22</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Habib Mod.</Script>
+    <Price>8.18</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First IBL Modaraba.</Script>
+    <Price>5.20</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Pak Mod.(XD)</Script>
+    <Price>1.72</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First UDL Mod.</Script>
+    <Price>6.85</Price>
+  </Scripts>
+  <Scripts>
+    <Script>KASB Modaraba.(XD)</Script>
+    <Price>1.24</Price>
+  </Scripts>
+  <Scripts>
+    <Script>OLP Modaraba.</Script>
+    <Price>13.75</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Orient Rental Modaraba.</Script>
+    <Price>6</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Unicap Modaraba.</Script>
+    <Price>1.72</Price>
+  </Scripts>
+</ArrayOfScripts>

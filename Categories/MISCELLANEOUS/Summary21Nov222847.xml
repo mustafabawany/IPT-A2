@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>ECOPAK Limited.(XB)</Script>
+    <Price>24.90</Price>
+  </Scripts>
+  <Scripts>
+    <Script>GOC (PAK) Limited.</Script>
+    <Price>54.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>MACPAC Films Limited.</Script>
+    <Price>15.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>MetaTech Health Limited</Script>
+    <Price>11.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Aluminium Beverage Cans Ltd</Script>
+    <Price>43.56</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Services Limited.</Script>
+    <Price>666.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shifa Int. Hospital Ltd.</Script>
+    <Price>130.09</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Siddiqsons Tin Plate Ltd.</Script>
+    <Price>8.21</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Synthetic Products Ent. Ltd.</Script>
+    <Price>12.65</Price>
+  </Scripts>
+  <Scripts>
+    <Script>United Distributors Pakistan.</Script>
+    <Price>30</Price>
+  </Scripts>
+</ArrayOfScripts>

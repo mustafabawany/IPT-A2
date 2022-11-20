@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Allawasaya Tex. &amp; Finishing Mills.</Script>
+    <Price>2249.77</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Arctic Textile Mills Ltd.</Script>
+    <Price>12.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Asim Textile Mills Ltd.</Script>
+    <Price>6.54</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bilal Fibres Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>2.20</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Colony Textile Mills Ltd.</Script>
+    <Price>3.43</Price>
+  </Scripts>
+  <Scripts>
+    <Script>D. S. Industries Ltd.</Script>
+    <Price>3.09</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Dewan Farooque Spinning Mills Ltd.</Script>
+    <Price>2.31</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ellcot Spinning Mills Ltd.</Script>
+    <Price>137.59</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Hira Textile Mills Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>1.76</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Idrees Textile Mills Ltd.</Script>
+    <Price>15.42</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Indus Dyeing &amp; Manufacturing.</Script>
+    <Price>217.60</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Kohinoor Spinning Mills Ltd.</Script>
+    <Price>2.80</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Premium Textile Mills Ltd.</Script>
+    <Price>668.75</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Reliance Cotton Spinning Mills.</Script>
+    <Price>625.91</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ruby Textile Mills Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>3.70</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Saritow Spinning Mills Ltd.</Script>
+    <Price>6.24</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Service Textile Mills Ltd.</Script>
+    <Price>8.26</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Tata Textile Mills Ltd.</Script>
+    <Price>60.27</Price>
+  </Scripts>
+</ArrayOfScripts>

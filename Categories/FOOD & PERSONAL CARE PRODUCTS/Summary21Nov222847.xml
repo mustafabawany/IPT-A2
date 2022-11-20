@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Al-Shaheer Corporation.</Script>
+    <Price>12.63</Price>
+  </Scripts>
+  <Scripts>
+    <Script>At-Tahur Ltd.(XB)</Script>
+    <Price>21.51</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bunnys Limited</Script>
+    <Price>20.17</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Clover Pakistan Limited.</Script>
+    <Price>19.86</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Fauji Foods Limited.</Script>
+    <Price>5.94</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Frieslandcampina Engro Pakistan Ltd.</Script>
+    <Price>75.42</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Matco Foods Limited.(XD)</Script>
+    <Price>34</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Mitchells Fruit Farms Ltd.</Script>
+    <Price>78.78</Price>
+  </Scripts>
+  <Scripts>
+    <Script>National Foods Ltd.</Script>
+    <Price>120.90</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Quice Food Industries Ltd.</Script>
+    <Price>3.82</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shezan International Ltd.</Script>
+    <Price>142.15</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shield Corporation Ltd.</Script>
+    <Price>285</Price>
+  </Scripts>
+  <Scripts>
+    <Script>The Organic Meat Company Ltd.</Script>
+    <Price>23.73</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Treet Corporation Ltd.</Script>
+    <Price>22.83</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Unity Foods Limited.</Script>
+    <Price>16.72</Price>
+  </Scripts>
+</ArrayOfScripts>

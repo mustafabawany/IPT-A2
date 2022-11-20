@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Century Paper &amp; Board Mills.</Script>
+    <Price>66.31</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Cherat Packaging Limited.</Script>
+    <Price>102.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Merit Packaging Ltd.</Script>
+    <Price>12.82</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Packages Ltd.</Script>
+    <Price>390</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Paper Products Ltd.</Script>
+    <Price>56.07</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Roshan Packages Limited.</Script>
+    <Price>14.70</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Security Papers Ltd.</Script>
+    <Price>102</Price>
+  </Scripts>
+</ArrayOfScripts>

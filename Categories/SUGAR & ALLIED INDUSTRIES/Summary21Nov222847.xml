@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Abdullah Shah Ghazi Sugar Mills Ltd.</Script>
+    <Price>6.43</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Al-Abbas Sugar Mills Ltd.</Script>
+    <Price>341</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Al-Noor Sugar Mills Ltd.</Script>
+    <Price>57.47</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Faran Sugar Mills Ltd.</Script>
+    <Price>55.45</Price>
+  </Scripts>
+  <Scripts>
+    <Script>J. D. W. Sugar Mills Ltd.</Script>
+    <Price>417</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Jauharabad Sugar Mills Ltd.</Script>
+    <Price>15.79</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Mehran Sugar Mills Ltd.(XB)</Script>
+    <Price>34.81</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Mirpurkhas Sugar Mills Ltd.</Script>
+    <Price>122.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sakrand Sugar Mills Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>8.84</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shahmurad Sugar Mills Ltd.</Script>
+    <Price>140</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shahtaj Sugar Mills Ltd.</Script>
+    <Price>51</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sindh Abadgars Sugar Mills Ltd.</Script>
+    <Price>12.46</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Tariq Corporation Ltd.</Script>
+    <Price>13.50</Price>
+  </Scripts>
+</ArrayOfScripts>

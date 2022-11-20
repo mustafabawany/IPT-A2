@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>AKD Securities Ltd.</Script>
+    <Price>20.75</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Arif Habib Limited.(XD)</Script>
+    <Price>38.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Cyan Limited.</Script>
+    <Price>24.40</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Dawood Equities Ltd.</Script>
+    <Price>5.75</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Escorts Investment Bank Ltd.</Script>
+    <Price>5.03</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Capital Sec.Corp. Ltd.</Script>
+    <Price>1.45</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First Dawood Investment Bank Ltd.</Script>
+    <Price>1.91</Price>
+  </Scripts>
+  <Scripts>
+    <Script>First National Equities Limited.</Script>
+    <Price>4.93</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Jahangir Siddiqui &amp; Co. (Pref Sh.)</Script>
+    <Price>8.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Jahangir Siddiqui &amp; Company Ltd.</Script>
+    <Price>15.29</Price>
+  </Scripts>
+  <Scripts>
+    <Script>JS Global Capital Limited.</Script>
+    <Price>85</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Next Capital Limited.(XB)</Script>
+    <Price>6.70</Price>
+  </Scripts>
+  <Scripts>
+    <Script>OLP Financial Services Pakistan Ltd.</Script>
+    <Price>19.90</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Stock Exchange Limited.</Script>
+    <Price>10.16</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pervez Ahmed Consultancy Services Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>0.86</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Trust Securities &amp; Brokerage.</Script>
+    <Price>12.13</Price>
+  </Scripts>
+</ArrayOfScripts>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scripts>
+    <Script>Agritech Limited</Script>
+    <Price>6.21</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Archroma Pakistan Limited.</Script>
+    <Price>546</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Berger Paints Pakistan Ltd.(XD)</Script>
+    <Price>70.50</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Buxly Paints Ltd.</Script>
+    <Price>88.14</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Colgate Palmolive (Pak) Ltd.</Script>
+    <Price>1999</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Descon Oxychem Ltd.</Script>
+    <Price>24.85</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Engro Polymer &amp; Chemical Pref.Share (XD)</Script>
+    <Price>12.03</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Engro Polymer &amp; Chemicals Ltd.</Script>
+    <Price>53.98</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ghani Chemical Industries Limited</Script>
+    <Price>25.45</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ghani Global Holdings Limited.</Script>
+    <Price>16.42</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ittehad Chemical Ltd. (XD)</Script>
+    <Price>26.90</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Lotte Chemical Pakistan Ltd.</Script>
+    <Price>30.54</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Nimir Industrial Chemical Ltd.</Script>
+    <Price>75</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Nimir Resins Limited.</Script>
+    <Price>14.90</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Oxygen Limited.</Script>
+    <Price>139</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sitara Chemicals.</Script>
+    <Price>199.88</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Sitara Peroxide Limited</Script>
+    <Price>18.68</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Wah Noble Chemicals Ltd.</Script>
+    <Price>173.49</Price>
+  </Scripts>
+</ArrayOfScripts>
