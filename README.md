@@ -29,9 +29,24 @@ Create a timer based Azure Function which is responsible to combine XML files an
   </li>
   <li>
     JSON File Structure:
-    <img src="">
   </li>
+  <br>
+  <img src="https://github.com/mustafabawany/IPT-A2/blob/main/Filestructure.png">
 </ul>
-
+<br>
+The service will execute after every 20 minutes. If the JSON file does not exist, it will create a new file but
+if the file already exists, it will append to the same file. The field lastUpdatedOn will be changed whenever
+the file has been last modified. Once the service has read the XML file and generated a JSON file, it will
+delete the XML file.
 
 ## Question 04
+
+Create an Azure Function (Http Trigger) where the user will pass the script name as a query string parameter and the function will return the data from the json file created in Question 3.
+<br>
+Example: Browser URL: http://localhost/myAzureFunction/AtlasHondaLimited
+<br>
+<br>
+Output:
+<br>
+<br>
+<img src="https://github.com/mustafabawany/IPT-A2/blob/main/Filestructure.png">
