@@ -1,0 +1,10 @@
+E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.exe.config
+E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.exe
+E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.pdb
+E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\obj\Debug\K191273_Q1.csproj.AssemblyReference.cache
+E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\obj\Debug\K191273_Q1.csproj.SuggestedBindingRedirects.cache
+E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\obj\Debug\K191273_Q1.ProjectInstaller.resources
+E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\obj\Debug\K191273_Q1.csproj.GenerateResource.cache
+E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\obj\Debug\K191273_Q1.csproj.CoreCompileInputs.cache
+E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\obj\Debug\K191273_Q1.exe
+E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\obj\Debug\K191273_Q1.pdb

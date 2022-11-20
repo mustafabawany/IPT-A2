@@ -1,0 +1,26 @@
+﻿Installing assembly 'E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.InstallLog
+   assemblypath = E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.InstallLog
+   assemblypath = E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.exe
+Installing assembly 'E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.InstallLog
+   assemblypath = E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.InstallLog
+   assemblypath = E:\IPT-Assignment-02\K191273_Q1\K191273_Q1\bin\Debug\K191273_Q1.exe
+Restoring event log to previous state for source Service1.
